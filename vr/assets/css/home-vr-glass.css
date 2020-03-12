@@ -409,7 +409,7 @@ label.error {
 
 .dark-header .navbar,
 .transparent-header .navbar {
-  background: black;
+  background: white;
   position: absolute;
   z-index: 999;
   width: 100%;
@@ -522,7 +522,7 @@ label.error {
   position: absolute;
   height: 3px;
   width: 100%;
-  background: #ffd417;
+  background: #ff0097;
   border-radius: 8px;
   opacity: 1;
   left: 0;
